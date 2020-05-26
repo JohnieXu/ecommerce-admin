@@ -1,4 +1,5 @@
 import { RouteConfig } from 'vue-router'
+import Main from '../components/layout/main/'
 
 const routes: Array<RouteConfig> = [
   // 登录
@@ -12,61 +13,61 @@ const routes: Array<RouteConfig> = [
     component: () => import('@/views/login/login.vue')
   },
   // 修改密码
-  // {
-  //   path: '/edit_password',
-  //   name: 'edit_password',
-  //   meta: {
-  //     title: '修改密码',
-  //     hideInMenu: true,
-  //     noLogin: true
-  //   },
-  //   component: () => import('@/views/edit-password/edit-password.vue')
-  // },
-  // // 首页
-  // {
-  //   path: '/',
-  //   name: '_home',
-  //   redirect: '/home',
-  //   component: Main,
-  //   meta: {
-  //     hideInMenu: true,
-  //     notCache: true
-  //   },
-  //   children: [
-  //     {
-  //       path: '/home',
-  //       name: 'home',
-  //       meta: {
-  //         hideInMenu: true,
-  //         title: '首页',
-  //         notCache: true,
-  //         icon: 'md-home'
-  //       },
-  //       component: () => import('@/views/single-page/home')
-  //     }
-  //   ]
-  // },
-  // // error_logger
-  // {
-  //   path: '/error_logger',
-  //   name: 'error_logger',
-  //   meta: {
-  //     hideInBread: true,
-  //     hideInMenu: true
-  //   },
-  //   component: Main,
-  //   children: [
-  //     {
-  //       path: 'error_logger_page',
-  //       name: 'error_logger_page',
-  //       meta: {
-  //         icon: 'ios-bug',
-  //         title: '错误收集'
-  //       },
-  //       component: () => import('@/views/single-page/error-logger.vue')
-  //     }
-  //   ]
-  // },
+  {
+    path: '/edit_password',
+    name: 'edit_password',
+    meta: {
+      title: '修改密码',
+      hideInMenu: true,
+      noLogin: true
+    }
+    // component: () => import('@/views/edit-password/edit-password.vue')
+  },
+  // 首页
+  {
+    path: '/',
+    name: '_home',
+    redirect: '/home',
+    component: Main,
+    meta: {
+      hideInMenu: true,
+      notCache: true
+    },
+    children: [
+      {
+        path: '/home',
+        name: 'home',
+        meta: {
+          hideInMenu: true,
+          title: '首页',
+          notCache: true,
+          icon: 'md-home'
+        },
+        component: () => import('@/views/home/')
+      }
+    ]
+  },
+  // error_logger
+  {
+    path: '/error_logger',
+    name: 'error_logger',
+    meta: {
+      hideInBread: true,
+      hideInMenu: true
+    },
+    component: Main,
+    children: [
+      {
+        path: 'error_logger_page',
+        name: 'error_logger_page',
+        meta: {
+          icon: 'ios-bug',
+          title: '错误收集'
+        }
+        // component: () => import('@/views/single-page/error-logger.vue')
+      }
+    ]
+  },
   // 401
   {
     path: '/401',

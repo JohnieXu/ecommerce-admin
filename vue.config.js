@@ -6,6 +6,6 @@ module.exports = {
   chainWebpack: config => {
     config.resolve.alias
       .set('@', path.resolve('src'))
-      .set('_c', path.resolve('components'))
+      .set('_c', path.resolve('src/components'))
   }
 }
