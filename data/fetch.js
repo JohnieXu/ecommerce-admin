@@ -26,8 +26,8 @@ function getAxiosInstance () {
     headers: {
       cookie,
       Accept: 'application/json, text/plain, */*',
-      'Authori-zation': token
-    }
+      'Authori-zation': token,
+    },
   })
   axiosInterceptors(axios)
   return axios
