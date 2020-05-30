@@ -1,29 +1,69 @@
 # ecommerce-admin
 
-## Project setup
-```
+🛍又一套从零开始开发的电商管理系统，欢迎参与开发或者提交 issue 讨论
+
+## 项目启动
+
+### 安装依赖
+
+```bash
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+或者
+
+```bash
+npm install
 ```
+
+### 开发环境启动
+
+```bash
 yarn serve
 ```
 
-### Compiles and minifies for production
+或者
+
 ```
+npm run serve
+```
+
+### 生产环境打包
+
+```bash
 yarn build
 ```
 
-### Run your unit tests
+或者
+
+```bash
+npm run build
 ```
+
+### 运行单元测试
+
+```bash
 yarn test:unit
 ```
 
-### Lints and fixes files
+或者
+
+```bash
+npm run test:unit
 ```
+
+### 代码格式检查
+
+```bash
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+或者
+
+```bash
+npm run lint
+```
+
+## 参与贡献
+
+commit 规范参考：[https://juejin.im/post/5d0b3f8c6fb9a07ec07fc5d0#heading-6](https://juejin.im/post/5d0b3f8c6fb9a07ec07fc5d0#heading-6)
