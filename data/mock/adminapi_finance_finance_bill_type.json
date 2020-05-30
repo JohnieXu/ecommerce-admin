@@ -1,0 +1,16 @@
+{
+  "status": 200,
+  "msg": "ok",
+  "data": {
+    "list": [
+      {
+        "title": "购买商品",
+        "type": "pay_money"
+      },
+      {
+        "title": "购买商品",
+        "type": "pay_product"
+      }
+    ]
+  }
+}

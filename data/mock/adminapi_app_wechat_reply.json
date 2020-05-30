@@ -1,0 +1,10 @@
+{
+  "status": 200,
+  "msg": "ok",
+  "data": {
+    "info": {
+      "data": null,
+      "key": "default"
+    }
+  }
+}

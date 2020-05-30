@@ -1,0 +1,232 @@
+{
+  "status": 200,
+  "msg": "ok",
+  "data": {
+    "count": 15,
+    "list": [
+      {
+        "id": 1,
+        "type": 0,
+        "tempkey": "1128",
+        "name": "订单配送通知",
+        "content": [
+          "商品信息{{thing8.DATA}}",
+          "订单编号{{character_string1.DATA}}",
+          "配送人{{name4.DATA}}",
+          "配送员电话{{phone_number10.DATA}}"
+        ],
+        "tempid": "4wN7p3nF1IPiPNIPZnoOY3nZlrVP3dzM-Km0OLcpW48",
+        "add_time": "1575364233",
+        "status": 1
+      },
+      {
+        "id": 2,
+        "type": 0,
+        "tempkey": "1470",
+        "name": "提现结果通知",
+        "content": [
+          "提现状态{{thing1.DATA}}",
+          "提现金额{{amount2.DATA}}",
+          "提现账号{{thing3.DATA}}",
+          "提现时间{{date4.DATA}}"
+        ],
+        "tempid": "xtBEkHdxyFSIQfiNe_CRga2mrmQizfArgSk7zC3hnbs",
+        "add_time": "1575364292",
+        "status": 1
+      },
+      {
+        "id": 3,
+        "type": 0,
+        "tempkey": "1481",
+        "name": "收货结果通知",
+        "content": [
+          "订单类型{{thing1.DATA}}",
+          "订单商品{{thing2.DATA}}",
+          "收货时间{{date5.DATA}}"
+        ],
+        "tempid": "AVmUHvKandN9a9ms_-5QsP9_PAzDoJ_VBB0vqQI1Eo0",
+        "add_time": "1575364327",
+        "status": 1
+      },
+      {
+        "id": 4,
+        "type": 0,
+        "tempkey": "1134",
+        "name": "订单取消通知",
+        "content": [
+          "取消原因{{thing1.DATA}}",
+          "订单号{{number7.DATA}}",
+          "取消时间{{date2.DATA}}",
+          "订单类型{{thing5.DATA}}"
+        ],
+        "tempid": "xBilsNHAH527HBqrMgNoIA_biTfQ7A_bCbMxMx1uMM0",
+        "add_time": "1575364399",
+        "status": 1
+      },
+      {
+        "id": 5,
+        "type": 0,
+        "tempkey": "1458",
+        "name": "发货通知",
+        "content": [
+          "快递单号{{character_string2.DATA}}",
+          "快递公司{{thing1.DATA}}",
+          "发货时间{{time3.DATA}}",
+          "订单商品{{thing5.DATA}}"
+        ],
+        "tempid": "vBrJgvoj4CgBOUIVQcRfsUkYun4orcllCfQ11SSs4wk",
+        "add_time": "1575364437",
+        "status": 1
+      },
+      {
+        "id": 6,
+        "type": 0,
+        "tempkey": "3098",
+        "name": "拼团成功通知",
+        "content": [
+          "活动名称{{thing1.DATA}}",
+          "团长{{name3.DATA}}",
+          "开团时间{{date5.DATA}}",
+          "成团人数{{number2.DATA}}"
+        ],
+        "tempid": "V9fd7ssFZr5_twdgf--RfAExR4N08zU9Hk9auWDAI8g",
+        "add_time": "1575364508",
+        "status": 1
+      },
+      {
+        "id": 7,
+        "type": 0,
+        "tempkey": "2727",
+        "name": "砍价成功通知",
+        "content": [
+          "商品名称{{thing1.DATA}}",
+          "底价{{amount2.DATA}}",
+          "备注{{thing3.DATA}}"
+        ],
+        "tempid": "ehNGy-NRBJIENTdlwT8nBddGW2B4dPo6eKv3x1H6fOg",
+        "add_time": "1575364579",
+        "status": 1
+      },
+      {
+        "id": 8,
+        "type": 0,
+        "tempkey": "3116",
+        "name": " 核销成功通知",
+        "content": [
+          "商品名称{{thing2.DATA}}",
+          "订单号{{character_string3.DATA}}",
+          "核销时间{{time4.DATA}}"
+        ],
+        "tempid": "5wiR0TK43wguWdGzexocKvn9-nhELiJtoBKeqptsf84",
+        "add_time": "1575364738",
+        "status": 1
+      },
+      {
+        "id": 9,
+        "type": 0,
+        "tempkey": "1476",
+        "name": " 新订单提醒",
+        "content": [
+          "订单商品{{thing2.DATA}}",
+          "订单金额{{amount3.DATA}}",
+          "订单编号{{character_string4.DATA}}",
+          "订单时间{{date6.DATA}}",
+          "订单类型{{thing1.DATA}}"
+        ],
+        "tempid": "F7ju2FdKqFQ8rXXzkB34HSYKa5_kOzJrpF9EZQc1pJ8",
+        "add_time": "1575364792",
+        "status": 1
+      },
+      {
+        "id": 10,
+        "type": 0,
+        "tempkey": "1451",
+        "name": " 退款通知",
+        "content": [
+          "退款状态{{thing1.DATA}}",
+          "退款商品{{thing2.DATA}}",
+          "退款金额{{amount3.DATA}}",
+          "退款单号{{character_string6.DATA}}"
+        ],
+        "tempid": "aqp6PzdU9vCUOUCHsuGFWvkZgp_cGQ_RKW7XCe9118I",
+        "add_time": "1575364895",
+        "status": 1
+      },
+      {
+        "id": 11,
+        "type": 0,
+        "tempkey": "755",
+        "name": " 充值成功通知",
+        "content": [
+          "交易单号{{character_string1.DATA}}",
+          "充值金额{{amount3.DATA}}",
+          "账户余额{{amount4.DATA}}",
+          "充值时间{{date5.DATA}}"
+        ],
+        "tempid": "_0KAysps9Yj0SM3nacaF_9xw77w1NQYjOpnl4TQAp7k",
+        "add_time": "1575365017",
+        "status": 1
+      },
+      {
+        "id": 12,
+        "type": 0,
+        "tempkey": "1927",
+        "name": "付款成功通知",
+        "content": [
+          "付款单号{{character_string1.DATA}}",
+          "付款金额{{amount2.DATA}}",
+          "付款时间{{date3.DATA}}"
+        ],
+        "tempid": "jY2vT0Fge2srW9Izc-3wEE6WII-FQBvEi2J_duiAAck",
+        "add_time": "1575365111",
+        "status": 1
+      },
+      {
+        "id": 13,
+        "type": 0,
+        "tempkey": "1468",
+        "name": "申请退款通知",
+        "content": [
+          "订单编号{{character_string4.DATA}}",
+          "申请时间{{date5.DATA}}",
+          "订单金额{{amount2.DATA}}",
+          "退款状态{{phrase7.DATA}}",
+          "备注{{thing8.DATA}}"
+        ],
+        "tempid": "NOfT3qoOS3hkSzwt2LJg_LnU0NBzwSHXkSwKdx6QDwc",
+        "add_time": "1575440940",
+        "status": 1
+      },
+      {
+        "id": 14,
+        "type": 0,
+        "tempkey": "335",
+        "name": "积分到账提醒",
+        "content": [
+          "订单编号{{character_string2.DATA}}",
+          "商品名称{{thing3.DATA}}",
+          "支付金额{{amount4.DATA}}",
+          "获得积分{{number5.DATA}}",
+          "累计积分{{number6.DATA}}"
+        ],
+        "tempid": "TtdbifwMN-6D3hNld8jTc97A8Ohlqg4FtgmIgB28JPc",
+        "add_time": "1575516565",
+        "status": 1
+      },
+      {
+        "id": 15,
+        "type": 0,
+        "tempkey": "3353",
+        "name": "拼团状态通知",
+        "content": [
+          "商品名称{{thing2.DATA}}",
+          "拼团人数{{thing1.DATA}}",
+          "备注{{thing3.DATA}}"
+        ],
+        "tempid": "LkYDDYO-HQKT7NydGjrN7AJ1OUCf3mgZf3otVruhxOo",
+        "add_time": "1575516605",
+        "status": 1
+      }
+    ]
+  }
+}

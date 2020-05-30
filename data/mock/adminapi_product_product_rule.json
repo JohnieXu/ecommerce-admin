@@ -1,0 +1,49 @@
+{
+  "status": 200,
+  "msg": "ok",
+  "data": {
+    "count": 4,
+    "list": [
+      {
+        "id": 6,
+        "rule_name": "鞋类",
+        "rule_value": "[{\"value\":\"\\u989c\\u8272\",\"detailValue\":\"\",\"attrHidden\":\"\",\"detail\":[\"\\u9ed1\\u8272\",\"\\u767d\\u8272\"]},{\"value\":\"\\u5c3a\\u7801\",\"detailValue\":\"\",\"attrHidden\":\"\",\"detail\":[\"37\",\"38\",\"39\",\"40\",\"41\",\"42\",\"43\",\"44\",\"45\"]}]",
+        "attr_name": "颜色,尺码",
+        "attr_value": [
+          "黑色,白色",
+          "37,38,39,40,41,42,43,44,45"
+        ]
+      },
+      {
+        "id": 4,
+        "rule_name": "衣服",
+        "rule_value": "[{\"value\":\"\\u989c\\u8272\",\"detailValue\":\"\",\"attrHidden\":\"\",\"detail\":[\"\\u7ea2\\u8272\",\"\\u84dd\\u8272\",\"\\u767d\\u8272\"]},{\"value\":\"\\u5c3a\\u7801\",\"detailValue\":\"\",\"attrHidden\":\"\",\"detail\":[\"XL\",\"S\",\"M\",\"XXL\",\"XXXL\"]},{\"value\":\"\\u5e74\\u9f84\",\"detailValue\":\"\",\"attrHidden\":\"\",\"detail\":[\"3\",\"5\",\"7\",\"9\",\"3-4\"]}]",
+        "attr_name": "颜色,尺码,年龄",
+        "attr_value": [
+          "红色,蓝色,白色",
+          "XL,S,M,XXL,XXXL",
+          "3,5,7,9,3-4"
+        ]
+      },
+      {
+        "id": 2,
+        "rule_name": "衣服模板",
+        "rule_value": "[{\"value\":\"\\u989c\\u8272\",\"detailValue\":\"\",\"attrHidden\":\"\",\"detail\":[\"\\u9ed1\\u8272\",\"\\u767d\\u8272\",\"\\u7eff\\u8272\",\"\\u7ea2\\u8272\",\"\\u6a58\\u8272\"]},{\"value\":\"\\u5c3a\\u7801\",\"detailValue\":\"\",\"attrHidden\":\"\",\"detail\":[\"L\",\"XL\",\"XXL\",\"XXXL\"]}]",
+        "attr_name": "颜色,尺码",
+        "attr_value": [
+          "黑色,白色,绿色,红色,橘色",
+          "L,XL,XXL,XXXL"
+        ]
+      },
+      {
+        "id": 1,
+        "rule_name": "色彩模板",
+        "rule_value": "[{\"value\":\"\\u989c\\u8272\",\"detailValue\":\"\",\"attrHidden\":\"\",\"detail\":[\"\\u767d\\u8272\",\"\\u9ed1\\u8272\",\"\\u7ea2\\u8272\"]}]",
+        "attr_name": "颜色",
+        "attr_value": [
+          "白色,黑色,红色"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "status": 200,
+  "msg": "ok",
+  "data": {
+    "res": [
+      {
+        "name": "分销员人数(人)",
+        "count": 0,
+        "className": "md-contacts",
+        "col": 6
+      },
+      {
+        "name": "发展会员人数(人)",
+        "count": 0,
+        "className": "md-contact",
+        "col": 6
+      },
+      {
+        "name": "分销订单数(单)",
+        "count": 0,
+        "className": "md-cart",
+        "col": 6
+      },
+      {
+        "name": "订单金额(元)",
+        "count": 0,
+        "className": "md-bug",
+        "col": 6
+      },
+      {
+        "name": "提现金额(元)",
+        "count": 0,
+        "className": "ios-beaker",
+        "col": 6
+      },
+      {
+        "name": "提现次数(次)",
+        "count": 0,
+        "className": "md-basket",
+        "col": 6
+      },
+      {
+        "name": "未提现金额(元)",
+        "count": 0,
+        "className": "ios-at-outline",
+        "col": 6
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "status": 200,
+  "msg": "ok",
+  "data": {
+    "all": 41,
+    "general": 41,
+    "pink": 0,
+    "seckill": 0,
+    "bargain": 0,
+    "unpaid": 27,
+    "unshipped": 4,
+    "untake": 0,
+    "write_off": 0,
+    "unevaluate": 0,
+    "complete": 0,
+    "refunding": 0,
+    "refund": 0,
+    "del": 10
+  }
+}

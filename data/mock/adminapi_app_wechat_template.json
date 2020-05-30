@@ -1,0 +1,223 @@
+{
+  "status": 200,
+  "msg": "ok",
+  "data": {
+    "industry": {
+      "primary_industry": "IT科技 | 互联网|电子商务",
+      "secondary_industry": "IT科技 | IT软件与服务"
+    },
+    "count": 13,
+    "list": [
+      {
+        "id": 16,
+        "type": 1,
+        "tempkey": "OPENTM200565259",
+        "name": "订单发货提醒",
+        "content": [
+          "{{first.DATA}}",
+          "订单编号：{{keyword1.DATA}}",
+          "物流公司：{{keyword2.DATA}}",
+          "物流单号：{{keyword3.DATA}}",
+          "{{remark.DATA}}"
+        ],
+        "tempid": "KusKZOFc_4CrRU_gzuXMdMMTfFeR-OLVVuDiMyR5PiM",
+        "add_time": "1515052638",
+        "status": 1
+      },
+      {
+        "id": 17,
+        "type": 1,
+        "tempkey": "OPENTM413386489",
+        "name": "订单收货通知",
+        "content": [
+          "{{first.DATA}}",
+          "订单编号：{{keyword1.DATA}}",
+          "订单状态：{{keyword2.DATA}}",
+          "收货时间：{{keyword3.DATA}}",
+          "商品详情：{{keyword4.DATA}}",
+          "{{remark.DATA}}"
+        ],
+        "tempid": "UNyz81kgsn1WZHSqmwPiF9fUkcdZghfTZvN6qtDuu54",
+        "add_time": "1515052765",
+        "status": 1
+      },
+      {
+        "id": 18,
+        "type": 1,
+        "tempkey": "OPENTM410119152",
+        "name": "退款进度通知",
+        "content": [
+          "{{first.DATA}}",
+          "订单编号：{{keyword1.DATA}}",
+          "订单金额：{{keyword2.DATA}}",
+          "下单时间：{{keyword3.DATA}}",
+          "{{remark.DATA}}"
+        ],
+        "tempid": "xrXtApBFv0L3-YXKkl9WYB89hJxFGfQo3jSsk2WpAwI",
+        "add_time": "1515053049",
+        "status": 1
+      },
+      {
+        "id": 19,
+        "type": 1,
+        "tempkey": "OPENTM405847076",
+        "name": "帐户资金变动提醒",
+        "content": [
+          "{{first.DATA}}",
+          "变动类型：{{keyword1.DATA}}",
+          "变动时间：{{keyword2.DATA}}",
+          "变动金额：{{keyword3.DATA}}",
+          "{{remark.DATA}}"
+        ],
+        "tempid": "Bk3XLd1Nwk9aNF1NIPBlyTDhrgNbzJW4H23OwVQdE-s",
+        "add_time": "1515053127",
+        "status": 1
+      },
+      {
+        "id": 20,
+        "type": 1,
+        "tempkey": "OPENTM207707249",
+        "name": "订单发货提醒",
+        "content": [
+          "",
+          "{{first.DATA}}",
+          "商品明细：{{keyword1.DATA}}",
+          "下单时间：{{keyword2.DATA}}",
+          "配送地址：{{keyword3.DATA}}",
+          "配送人：{{keyword4.DATA}}",
+          "联系电话：{{keyword5.DATA}}",
+          "{{remark.DATA}}"
+        ],
+        "tempid": "KusKZOFc_4CrRU_gzuXMdMMTfFeR-OLVVuDiMyR5PiM",
+        "add_time": "1515053313",
+        "status": 1
+      },
+      {
+        "id": 21,
+        "type": 1,
+        "tempkey": "OPENTM408237350",
+        "name": "服务进度提醒",
+        "content": [
+          "{{first.DATA}}",
+          "服务类型：{{keyword1.DATA}}",
+          "服务状态：{{keyword2.DATA}}",
+          "服务时间：{{keyword3.DATA}}",
+          "{{remark.DATA}}"
+        ],
+        "tempid": "ul2g_y0oxqEhtWoSJBbLzmnPrUwtLnIAe30MTBRL7rw",
+        "add_time": "1515483915",
+        "status": 1
+      },
+      {
+        "id": 22,
+        "type": 1,
+        "tempkey": "OPENTM204431262",
+        "name": "客服通知提醒",
+        "content": [
+          "{{first.DATA}}",
+          "客户名称：{{keyword1.DATA}}",
+          "客服类型：{{keyword2.DATA}}",
+          "提醒内容：{{keyword3.DATA}}",
+          "通知时间：{{keyword4.DATA}}",
+          "{{remark.DATA}}"
+        ],
+        "tempid": "j51mawxEmTuCCtMrXwSTnRfXH93qutoOebs5RG4MyHY",
+        "add_time": "1515484354",
+        "status": 1
+      },
+      {
+        "id": 23,
+        "type": 1,
+        "tempkey": "OPENTM407456411",
+        "name": "拼团成功通知",
+        "content": [
+          "{{first.DATA}}",
+          "订单编号：{{keyword1.DATA}}",
+          "团购商品：{{keyword2.DATA}}",
+          "{{remark.DATA}}"
+        ],
+        "tempid": "CNvCAz9GIoQri-ogSCODVRANCBUQjZIxWzWvizbHVoQ",
+        "add_time": "1520063823",
+        "status": 1
+      },
+      {
+        "id": 24,
+        "type": 1,
+        "tempkey": "OPENTM401113750",
+        "name": "拼团失败通知",
+        "content": [
+          "{{first.DATA}}",
+          "拼团商品：{{keyword1.DATA}}",
+          "商品金额：{{keyword2.DATA}}",
+          "退款金额：{{keyword3.DATA}}",
+          "{{remark.DATA}}"
+        ],
+        "tempid": "mSg4ZexW1qaQH3FCrFLe746EYMlTFsZhfTB6VI_ElYg",
+        "add_time": "1520064059",
+        "status": 1
+      },
+      {
+        "id": 25,
+        "type": 1,
+        "tempkey": "OPENTM205213550",
+        "name": "订单生成通知",
+        "content": [
+          "{{first.DATA}}",
+          "时间：{{keyword1.DATA}}",
+          "商品名称：{{keyword2.DATA}}",
+          "订单号：{{keyword3.DATA}}",
+          "{{remark.DATA}}"
+        ],
+        "tempid": "HYD99ERso6_PcA3hAT6pzH1RmO88H6IIe8crAVaXPRE",
+        "add_time": "1528966701",
+        "status": 1
+      },
+      {
+        "id": 26,
+        "type": 1,
+        "tempkey": "OPENTM207791277",
+        "name": "订单支付成功通知",
+        "content": [
+          "{{first.DATA}}",
+          "订单编号：{{keyword1.DATA}}",
+          "支付金额：{{keyword2.DATA}}",
+          "{{remark.DATA}}"
+        ],
+        "tempid": "hJV1d1OwWB_lbPrSaRHi9RGr5CFAF4PJcZdYeg73Mtg",
+        "add_time": "1528966759",
+        "status": 1
+      },
+      {
+        "id": 27,
+        "type": 1,
+        "tempkey": "OPENTM410292733",
+        "name": "砍价成功提醒",
+        "content": [
+          "{{first.DATA}}",
+          "商品名称：{{keyword1.DATA}}",
+          "底价：{{keyword2.DATA}}",
+          "{{remark.DATA}}"
+        ],
+        "tempid": "SxBvid65JxK6PWOhlC2sgCG_mlopY1uKekEnEvAALp4",
+        "add_time": "1564566678",
+        "status": 1
+      },
+      {
+        "id": 28,
+        "type": 1,
+        "tempkey": "OPENTM414349441",
+        "name": "开团成功通知",
+        "content": [
+          "{{first.DATA}}",
+          "拼团名称：{{keyword1.DATA}}",
+          "团购价格：{{keyword2.DATA}}",
+          "拼团人数：{{keyword3.DATA}}",
+          "{{remark.DATA}}"
+        ],
+        "tempid": "VDTU6X1UiK438tu-qcHKc_I76CtsEWVx-_Pbf1voiws",
+        "add_time": "1564567037",
+        "status": 1
+      }
+    ]
+  }
+}

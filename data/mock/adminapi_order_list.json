@@ -1,0 +1,38 @@
+{
+  "status": 200,
+  "msg": "ok",
+  "data": {
+    "data": [],
+    "stat": [
+      {
+        "name": "订单数量",
+        "field": "件",
+        "count": 0,
+        "className": "md-basket",
+        "col": 6
+      },
+      {
+        "name": "订单金额",
+        "field": "元",
+        "count": null,
+        "className": "md-pricetags",
+        "col": 6
+      },
+      {
+        "name": "微信支付金额",
+        "field": "元",
+        "count": 0,
+        "className": "ios-chatbubbles",
+        "col": 6
+      },
+      {
+        "name": "余额支付金额",
+        "field": "元",
+        "count": 0,
+        "className": "ios-cash",
+        "col": 6
+      }
+    ],
+    "count": 0
+  }
+}

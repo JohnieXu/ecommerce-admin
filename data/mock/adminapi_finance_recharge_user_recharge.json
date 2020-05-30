@@ -1,0 +1,34 @@
+{
+  "status": 200,
+  "msg": "ok",
+  "data": [
+    {
+      "name": "充值总金额",
+      "field": "元",
+      "count": 3561,
+      "className": "logo-yen",
+      "col": 6
+    },
+    {
+      "name": "充值退款金额",
+      "field": "元",
+      "count": 0,
+      "className": "logo-usd",
+      "col": 6
+    },
+    {
+      "name": "小程序充值金额",
+      "field": "元",
+      "count": 0,
+      "className": "logo-bitcoin",
+      "col": 6
+    },
+    {
+      "name": "公众号充值金额",
+      "field": "元",
+      "count": 3561,
+      "className": "ios-bicycle",
+      "col": 6
+    }
+  ]
+}

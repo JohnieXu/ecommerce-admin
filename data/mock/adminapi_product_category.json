@@ -1,0 +1,467 @@
+{
+  "status": 200,
+  "msg": "ok",
+  "data": {
+    "count": 11,
+    "list": [
+      {
+        "id": 9,
+        "pid": 0,
+        "cate_name": "家电电器",
+        "sort": 90,
+        "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/2c9fd486092555d91efff5c6e5e383d6.jpg",
+        "is_show": 1,
+        "add_time": "2019-03-29 17:36:46",
+        "children": [
+          {
+            "id": 31,
+            "pid": 9,
+            "cate_name": "洗衣机",
+            "sort": 60,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/f1c66db0b9bb23d7b36013d794492d67.jpg",
+            "is_show": 1,
+            "add_time": "2020-03-18 14:56:21",
+            "children": []
+          },
+          {
+            "id": 30,
+            "pid": 9,
+            "cate_name": "空调",
+            "sort": 0,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/2ab5ea85f26c5bcdf2559136c7a3b22d.jpg",
+            "is_show": 1,
+            "add_time": "2020-03-18 14:52:07",
+            "children": []
+          },
+          {
+            "id": 29,
+            "pid": 9,
+            "cate_name": "电视",
+            "sort": 0,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/2c9fd486092555d91efff5c6e5e383d6.jpg",
+            "is_show": 1,
+            "add_time": "2020-03-18 14:50:29",
+            "children": []
+          }
+        ],
+        "expand": true
+      },
+      {
+        "id": 13,
+        "pid": 0,
+        "cate_name": "服饰鞋帽",
+        "sort": 75,
+        "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/699f60974cf32e88c8f1960b852a43c3.jpg",
+        "is_show": 1,
+        "add_time": "2019-03-29 17:38:34",
+        "children": [
+          {
+            "id": 49,
+            "pid": 13,
+            "cate_name": "时尚运动",
+            "sort": 100,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/b912ff52f4023da0ada306976f56b3e6.jpg",
+            "is_show": 1,
+            "add_time": "2020-03-18 17:38:12",
+            "children": []
+          },
+          {
+            "id": 45,
+            "pid": 13,
+            "cate_name": "精品男装",
+            "sort": 90,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/699f60974cf32e88c8f1960b852a43c3.jpg",
+            "is_show": 1,
+            "add_time": "2020-03-18 17:29:05",
+            "children": []
+          },
+          {
+            "id": 48,
+            "pid": 13,
+            "cate_name": "箱包",
+            "sort": 80,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/eda281cf0adaee0e888c9cea545db19c.jpg",
+            "is_show": 1,
+            "add_time": "2020-03-18 17:36:12",
+            "children": []
+          },
+          {
+            "id": 46,
+            "pid": 13,
+            "cate_name": "香水彩妆",
+            "sort": 70,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/46410cfa26b5e1faadcf89ee0b3b631b.jpg",
+            "is_show": 1,
+            "add_time": "2020-03-18 17:30:53",
+            "children": []
+          },
+          {
+            "id": 47,
+            "pid": 13,
+            "cate_name": "配饰",
+            "sort": 0,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/fb548093870b1b6224312d851061ea1c.jpg",
+            "is_show": 1,
+            "add_time": "2020-03-18 17:32:48",
+            "children": []
+          },
+          {
+            "id": 44,
+            "pid": 13,
+            "cate_name": "时尚女装",
+            "sort": 0,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200319/677547eabb1817224b95cd89283df0fa.jpg",
+            "is_show": 1,
+            "add_time": "2020-03-18 17:27:16",
+            "children": []
+          }
+        ],
+        "expand": true
+      },
+      {
+        "id": 12,
+        "pid": 0,
+        "cate_name": "影音设备",
+        "sort": 8,
+        "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/494ce9742e95101fffff0c21784f96f2.jpg",
+        "is_show": 1,
+        "add_time": "2019-03-29 17:38:08",
+        "children": [
+          {
+            "id": 34,
+            "pid": 12,
+            "cate_name": "音响",
+            "sort": 0,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/a332530009222c8d85cffab489624979.jpg",
+            "is_show": 1,
+            "add_time": "2020-03-18 15:07:37",
+            "children": []
+          },
+          {
+            "id": 33,
+            "pid": 12,
+            "cate_name": "耳机",
+            "sort": 0,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/0daf16b63c6b674ba3144e59bb6720ce.jpg",
+            "is_show": 1,
+            "add_time": "2020-03-18 15:02:39",
+            "children": []
+          },
+          {
+            "id": 32,
+            "pid": 12,
+            "cate_name": "相机",
+            "sort": 0,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/494ce9742e95101fffff0c21784f96f2.jpg",
+            "is_show": 1,
+            "add_time": "2020-03-18 14:59:11",
+            "children": []
+          }
+        ],
+        "expand": true
+      },
+      {
+        "id": 11,
+        "pid": 0,
+        "cate_name": "智能设备",
+        "sort": 4,
+        "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/269f7725070f2bd8b9f0039685ad7de6.jpg",
+        "is_show": 1,
+        "add_time": "2019-03-29 17:37:39",
+        "children": [
+          {
+            "id": 37,
+            "pid": 11,
+            "cate_name": "机器人",
+            "sort": 0,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/2efb611e2d14108fdf625df9e878f702.jpg",
+            "is_show": 1,
+            "add_time": "2020-03-18 15:15:54",
+            "children": []
+          },
+          {
+            "id": 36,
+            "pid": 11,
+            "cate_name": "无人机",
+            "sort": 0,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/269f7725070f2bd8b9f0039685ad7de6.jpg",
+            "is_show": 1,
+            "add_time": "2020-03-18 15:11:57",
+            "children": []
+          },
+          {
+            "id": 35,
+            "pid": 11,
+            "cate_name": "手环",
+            "sort": 0,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/b1235d5c5eda4a8cca0a66bf1f48c509.jpg",
+            "is_show": 1,
+            "add_time": "2020-03-18 15:10:12",
+            "children": []
+          }
+        ],
+        "expand": true
+      },
+      {
+        "id": 17,
+        "pid": 0,
+        "cate_name": "出行交通",
+        "sort": 2,
+        "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/2052d5c3176b875c5bc58a879b0ba389.jpg",
+        "is_show": 1,
+        "add_time": "2019-03-29 17:40:13",
+        "children": [
+          {
+            "id": 40,
+            "pid": 17,
+            "cate_name": "坐垫",
+            "sort": 0,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/164d3f2cb6a62f5509a768ac83d930fc.jpg",
+            "is_show": 1,
+            "add_time": "2020-03-18 17:06:18",
+            "children": []
+          },
+          {
+            "id": 39,
+            "pid": 17,
+            "cate_name": "美容清洗",
+            "sort": 0,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/69ae5e95e9b325d33114ead0e0c8c54e.jpg",
+            "is_show": 1,
+            "add_time": "2020-03-18 17:04:30",
+            "children": []
+          },
+          {
+            "id": 38,
+            "pid": 17,
+            "cate_name": "车载电器",
+            "sort": 0,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/2052d5c3176b875c5bc58a879b0ba389.jpg",
+            "is_show": 1,
+            "add_time": "2020-03-18 16:57:41",
+            "children": []
+          }
+        ],
+        "expand": true
+      },
+      {
+        "id": 14,
+        "pid": 0,
+        "cate_name": "餐厨厨房",
+        "sort": 2,
+        "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/b89f34e31f5a3ea4b0fcdc039e31505a.jpg",
+        "is_show": 1,
+        "add_time": "2019-03-29 17:39:13",
+        "children": [
+          {
+            "id": 43,
+            "pid": 14,
+            "cate_name": "茶具套装",
+            "sort": 0,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/e7f47f490eba32bdeff426748e7ce7a2.jpg",
+            "is_show": 1,
+            "add_time": "2020-03-18 17:14:41",
+            "children": []
+          },
+          {
+            "id": 42,
+            "pid": 14,
+            "cate_name": "油烟灶具",
+            "sort": 0,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/b89f34e31f5a3ea4b0fcdc039e31505a.jpg",
+            "is_show": 1,
+            "add_time": "2020-03-18 17:11:21",
+            "children": []
+          },
+          {
+            "id": 41,
+            "pid": 14,
+            "cate_name": "烹饪锅具",
+            "sort": 0,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/a71fd979c8048b1c4f9d4db93e095834.jpg",
+            "is_show": 1,
+            "add_time": "2020-03-18 17:08:36",
+            "children": []
+          }
+        ],
+        "expand": true
+      },
+      {
+        "id": 16,
+        "pid": 0,
+        "cate_name": "日杂用品",
+        "sort": 1,
+        "pic": "",
+        "is_show": 0,
+        "add_time": "2019-03-29 17:39:50",
+        "children": []
+      },
+      {
+        "id": 15,
+        "pid": 0,
+        "cate_name": "洗护健康",
+        "sort": 1,
+        "pic": "",
+        "is_show": 0,
+        "add_time": "2019-03-29 17:39:30",
+        "children": []
+      },
+      {
+        "id": 10,
+        "pid": 0,
+        "cate_name": "手机数码",
+        "sort": 1,
+        "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/9fa811693cba752db652e815296255f1.jpg",
+        "is_show": 1,
+        "add_time": "2019-03-29 17:37:07",
+        "children": [
+          {
+            "id": 28,
+            "pid": 10,
+            "cate_name": "手机",
+            "sort": 30,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/25fad7ca52ed5cc9208651cf7fed8f60.jpg",
+            "is_show": 1,
+            "add_time": "2019-08-21 10:35:15",
+            "children": []
+          },
+          {
+            "id": 51,
+            "pid": 10,
+            "cate_name": "智能锁",
+            "sort": 0,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/9fa811693cba752db652e815296255f1.jpg",
+            "is_show": 1,
+            "add_time": "2020-03-18 17:44:26",
+            "children": []
+          },
+          {
+            "id": 50,
+            "pid": 10,
+            "cate_name": "笔记本",
+            "sort": 0,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/1a3f8ec561f80b0430cc46cc7b085c4d.jpg",
+            "is_show": 1,
+            "add_time": "2020-03-18 17:42:53",
+            "children": []
+          }
+        ],
+        "expand": true
+      },
+      {
+        "id": 1,
+        "pid": 0,
+        "cate_name": "热门推荐",
+        "sort": 1,
+        "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/cc3dd6914b08f81b91966518a45c01d2.png",
+        "is_show": 1,
+        "add_time": "2019-01-11 19:10:38",
+        "children": [
+          {
+            "id": 4,
+            "pid": 1,
+            "cate_name": "新品上线",
+            "sort": 0,
+            "pic": "http://datong.crmeb.net/public/uploads/attach/2019/01/15/5c3dbc6a38fab.jpg",
+            "is_show": 1,
+            "add_time": "2019-03-28 22:28:15",
+            "children": []
+          },
+          {
+            "id": 3,
+            "pid": 1,
+            "cate_name": "折扣专区",
+            "sort": 0,
+            "pic": "http://datong.crmeb.net/public/uploads/attach/2019/01/15/5c3dc0ef27068.jpg",
+            "is_show": 1,
+            "add_time": "2019-01-15 19:06:03",
+            "children": []
+          },
+          {
+            "id": 2,
+            "pid": 1,
+            "cate_name": "热门促销",
+            "sort": 0,
+            "pic": "http://datong.crmeb.net/public/uploads/attach/2019/01/15/5c3dba1366885.jpg",
+            "is_show": 1,
+            "add_time": "2019-01-11 19:10:55",
+            "children": []
+          }
+        ],
+        "expand": true
+      },
+      {
+        "id": 6,
+        "pid": 0,
+        "cate_name": "居家生活",
+        "sort": 0,
+        "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/458a135ce4c461e87e2fea82dda53774.jpg",
+        "is_show": 1,
+        "add_time": "2019-03-28 22:33:29",
+        "children": [
+          {
+            "id": 7,
+            "pid": 6,
+            "cate_name": "床垫",
+            "sort": 1,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/458a135ce4c461e87e2fea82dda53774.jpg",
+            "is_show": 1,
+            "add_time": "2019-03-28 22:47:53",
+            "children": []
+          },
+          {
+            "id": 22,
+            "pid": 6,
+            "cate_name": "布艺软装",
+            "sort": 0,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/29f36a3d66dccbbdd47e64deaed934cd.jpg",
+            "is_show": 1,
+            "add_time": "2019-03-29 18:21:48",
+            "children": []
+          },
+          {
+            "id": 21,
+            "pid": 6,
+            "cate_name": "家饰花卉",
+            "sort": 0,
+            "pic": "http://kaifa.crmeb.net/uploads/attach/2020/03/20200318/a427442af073c12aa05a09feb4b64bd0.jpg",
+            "is_show": 1,
+            "add_time": "2019-03-29 18:20:35",
+            "children": []
+          },
+          {
+            "id": 20,
+            "pid": 6,
+            "cate_name": "床品件套",
+            "sort": 0,
+            "pic": "http://datong.crmeb.net/public/uploads/attach/2019/03/29/5c9df11e13742.png",
+            "is_show": 1,
+            "add_time": "2019-03-29 18:19:15",
+            "children": []
+          },
+          {
+            "id": 19,
+            "pid": 6,
+            "cate_name": "家具",
+            "sort": 0,
+            "pic": "http://datong.crmeb.net/public/uploads/attach/2019/03/29/5c9def5fa968c.png",
+            "is_show": 1,
+            "add_time": "2019-03-29 18:11:48",
+            "children": []
+          },
+          {
+            "id": 8,
+            "pid": 6,
+            "cate_name": "灯具",
+            "sort": 0,
+            "pic": "http://datong.crmeb.net/public/uploads/attach/2019/03/29/5c9def00c2882.png",
+            "is_show": 1,
+            "add_time": "2019-03-28 22:48:10",
+            "children": []
+          }
+        ],
+        "expand": true
+      }
+    ]
+  }
+}

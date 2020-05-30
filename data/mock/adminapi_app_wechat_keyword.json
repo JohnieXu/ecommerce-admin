@@ -1,0 +1,22 @@
+{
+  "status": 200,
+  "msg": "ok",
+  "data": {
+    "count": 1,
+    "list": [
+      {
+        "keys": "1",
+        "id": 1,
+        "key": "1",
+        "type": "text",
+        "data": {
+          "content": "23"
+        },
+        "status": 1,
+        "hide": 0,
+        "think_count": 1,
+        "typeName": "文字消息"
+      }
+    ]
+  }
+}

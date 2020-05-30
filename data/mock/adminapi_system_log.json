@@ -1,0 +1,189 @@
+{
+  "status": 200,
+  "msg": "ok",
+  "data": {
+    "count": 76669,
+    "list": [
+      {
+        "id": 77437,
+        "admin_id": 2,
+        "admin_name": "demo",
+        "path": "adminapi/v1.application.routine.routinetemplate/index/",
+        "page": "未知",
+        "method": "adminapi",
+        "ip": "59.174.79.174",
+        "type": "system",
+        "add_time": 1590808278,
+        "merchant_id": 0
+      },
+      {
+        "id": 77436,
+        "admin_id": 2,
+        "admin_name": "demo",
+        "path": "adminapi/v1.application.wechat.reply/index/",
+        "page": "未知",
+        "method": "adminapi",
+        "ip": "59.174.79.174",
+        "type": "system",
+        "add_time": 1590808278,
+        "merchant_id": 0
+      },
+      {
+        "id": 77435,
+        "admin_id": 2,
+        "admin_name": "demo",
+        "path": "adminapi/v1.application.wechat.reply/reply/",
+        "page": "未知",
+        "method": "adminapi",
+        "ip": "59.174.79.174",
+        "type": "system",
+        "add_time": 1590808278,
+        "merchant_id": 0
+      },
+      {
+        "id": 77434,
+        "admin_id": 2,
+        "admin_name": "demo",
+        "path": "adminapi/v1.marketing.storecoupon/index/",
+        "page": "未知",
+        "method": "adminapi",
+        "ip": "59.174.79.174",
+        "type": "system",
+        "add_time": 1590808278,
+        "merchant_id": 0
+      },
+      {
+        "id": 77433,
+        "admin_id": 2,
+        "admin_name": "demo",
+        "path": "adminapi/v1.system.systemlog/index/",
+        "page": "未知",
+        "method": "adminapi",
+        "ip": "59.174.79.174",
+        "type": "system",
+        "add_time": 1590808278,
+        "merchant_id": 0
+      },
+      {
+        "id": 77432,
+        "admin_id": 2,
+        "admin_name": "demo",
+        "path": "adminapi/v1.application.wechat.menus/index/",
+        "page": "未知",
+        "method": "adminapi",
+        "ip": "59.174.79.174",
+        "type": "system",
+        "add_time": 1590808278,
+        "merchant_id": 0
+      },
+      {
+        "id": 77431,
+        "admin_id": 2,
+        "admin_name": "demo",
+        "path": "adminapi/v1.agent.agentmanage/index/",
+        "page": "未知",
+        "method": "adminapi",
+        "ip": "59.174.79.174",
+        "type": "system",
+        "add_time": 1590808278,
+        "merchant_id": 0
+      },
+      {
+        "id": 77430,
+        "admin_id": 2,
+        "admin_name": "demo",
+        "path": "adminapi/v1.finance.finance/get_commission_list/",
+        "page": "未知",
+        "method": "adminapi",
+        "ip": "59.174.79.174",
+        "type": "system",
+        "add_time": 1590808278,
+        "merchant_id": 0
+      },
+      {
+        "id": 77429,
+        "admin_id": 2,
+        "admin_name": "demo",
+        "path": "adminapi/v1.application.wechat.wechattemplate/index/",
+        "page": "未知",
+        "method": "adminapi",
+        "ip": "59.174.79.174",
+        "type": "system",
+        "add_time": 1590808278,
+        "merchant_id": 0
+      },
+      {
+        "id": 77428,
+        "admin_id": 2,
+        "admin_name": "demo",
+        "path": "adminapi/v1.system.systemdatabackup/filelist/",
+        "page": "未知",
+        "method": "adminapi",
+        "ip": "59.174.79.174",
+        "type": "system",
+        "add_time": 1590808278,
+        "merchant_id": 0
+      },
+      {
+        "id": 77427,
+        "admin_id": 2,
+        "admin_name": "demo",
+        "path": "adminapi/v1.system.systemdatabackup/index/",
+        "page": "未知",
+        "method": "adminapi",
+        "ip": "59.174.79.174",
+        "type": "system",
+        "add_time": 1590808278,
+        "merchant_id": 0
+      },
+      {
+        "id": 77426,
+        "admin_id": 2,
+        "admin_name": "demo",
+        "path": "adminapi/v1.application.wechat.wechatnewscategory/index/",
+        "page": "未知",
+        "method": "adminapi",
+        "ip": "59.174.79.174",
+        "type": "system",
+        "add_time": 1590808278,
+        "merchant_id": 0
+      },
+      {
+        "id": 77425,
+        "admin_id": 2,
+        "admin_name": "demo",
+        "path": "adminapi/v1.finance.finance/list/",
+        "page": "未知",
+        "method": "adminapi",
+        "ip": "59.174.79.174",
+        "type": "system",
+        "add_time": 1590808278,
+        "merchant_id": 0
+      },
+      {
+        "id": 77424,
+        "admin_id": 2,
+        "admin_name": "demo",
+        "path": "adminapi/v1.system.systemfile/index/",
+        "page": "未知",
+        "method": "adminapi",
+        "ip": "59.174.79.174",
+        "type": "system",
+        "add_time": 1590808278,
+        "merchant_id": 0
+      },
+      {
+        "id": 77423,
+        "admin_id": 2,
+        "admin_name": "demo",
+        "path": "adminapi/v1.cms.articlecategory/index/",
+        "page": "未知",
+        "method": "adminapi",
+        "ip": "59.174.79.174",
+        "type": "system",
+        "add_time": 1590808278,
+        "merchant_id": 0
+      }
+    ]
+  }
+}
