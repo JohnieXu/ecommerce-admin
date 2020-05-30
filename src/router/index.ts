@@ -9,13 +9,13 @@ const routes: Array<RouteConfig> = []
 
 const allRoutes = [
   ...routes,
-  ...commonRoutes
+  ...commonRoutes,
 ]
 
 const router = new VueRouter({
   mode: 'history',
   base: process.env.BASE_URL,
-  routes: allRoutes
+  routes: allRoutes,
 })
 
 export default router

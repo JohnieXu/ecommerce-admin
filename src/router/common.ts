@@ -8,9 +8,9 @@ const routes: Array<RouteConfig> = [
     name: 'login',
     meta: {
       title: '登录',
-      hideInMenu: true
+      hideInMenu: true,
     },
-    component: () => import('@/views/login/login.vue')
+    component: () => import('@/views/login/login.vue'),
   },
   // 修改密码
   {
@@ -19,8 +19,8 @@ const routes: Array<RouteConfig> = [
     meta: {
       title: '修改密码',
       hideInMenu: true,
-      noLogin: true
-    }
+      noLogin: true,
+    },
     // component: () => import('@/views/edit-password/edit-password.vue')
   },
   // 首页
@@ -31,7 +31,7 @@ const routes: Array<RouteConfig> = [
     component: Main,
     meta: {
       hideInMenu: true,
-      notCache: true
+      notCache: true,
     },
     children: [
       {
@@ -41,11 +41,11 @@ const routes: Array<RouteConfig> = [
           hideInMenu: true,
           title: '首页',
           notCache: true,
-          icon: 'md-home'
+          icon: 'md-home',
         },
-        component: () => import('@/views/home/')
-      }
-    ]
+        component: () => import('@/views/home/'),
+      },
+    ],
   },
   // error_logger
   {
@@ -53,7 +53,7 @@ const routes: Array<RouteConfig> = [
     name: 'error_logger',
     meta: {
       hideInBread: true,
-      hideInMenu: true
+      hideInMenu: true,
     },
     component: Main,
     children: [
@@ -62,39 +62,39 @@ const routes: Array<RouteConfig> = [
         name: 'error_logger_page',
         meta: {
           icon: 'ios-bug',
-          title: '错误收集'
-        }
+          title: '错误收集',
+        },
         // component: () => import('@/views/single-page/error-logger.vue')
-      }
-    ]
+      },
+    ],
   },
   // 401
   {
     path: '/401',
     name: 'error_401',
     meta: {
-      hideInMenu: true
+      hideInMenu: true,
     },
-    component: () => import('@/views/error-page/401.vue')
+    component: () => import('@/views/error-page/401.vue'),
   },
   // 500
   {
     path: '/500',
     name: 'error_500',
     meta: {
-      hideInMenu: true
+      hideInMenu: true,
     },
-    component: () => import('@/views/error-page/500.vue')
+    component: () => import('@/views/error-page/500.vue'),
   },
   // error_404
   {
     path: '*',
     name: 'error_404',
     meta: {
-      hideInMenu: true
+      hideInMenu: true,
     },
-    component: () => import('@/views/error-page/404.vue')
-  }
+    component: () => import('@/views/error-page/404.vue'),
+  },
 ]
 
 export default routes

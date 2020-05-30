@@ -18,8 +18,8 @@ import SideMenu from './SideMenu.vue'
 
 @Component({
   components: {
-    SideMenu
-  }
+    SideMenu,
+  },
 })
 export default class Main extends Vue {
 

@@ -7,5 +7,5 @@ module.exports = {
     config.resolve.alias
       .set('@', path.resolve('src'))
       .set('_c', path.resolve('src/components'))
-  }
+  },
 }
