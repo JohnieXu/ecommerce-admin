@@ -13,8 +13,9 @@
 </template>
 
 <script lang="ts">
-import { Vue, Component, Prop, Watch } from 'vue-property-decorator'
-import SideMenu from './SideMenu.vue'
+import { mapGetters } from 'vuex'
+import { Vue, Component } from 'vue-property-decorator'
+import SideMenu from './side_menu.vue'
 
 @Component({
   components: {

@@ -1,6 +1,6 @@
 <template>
   <div class="side-menu">
-    <Menu active-name="1-2" width="auto">
+    <Menu active-name="1-2" width="auto" @on-select="handleMenuSelect">
         <Submenu name="1">
           <template v-slot:title>用户管理</template>
           <MenuItem name="1-1">
@@ -72,10 +72,17 @@
 </template>
 
 <script lang="ts">
-import { Vue, Prop, Watch } from 'vue-property-decorator'
+import { Vue, Prop, Watch, Component } from 'vue-property-decorator'
 
+@Component
 export default class SideMenu extends Vue {
-
+  public handleMenuSelect (name: string) {
+    console.log(name)
+    if (name === '1-1') {
+      // 会员管理
+      this.$router.push('/user/vip')
+    }
+  }
 }
 </script>
 

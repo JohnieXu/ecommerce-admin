@@ -5,8 +5,18 @@
 </template>
 
 <script>
+import { mapGetters, mapActions } from 'vuex'
 export default {
   name: 'app',
+  computed: {
+    ...mapGetters(['menus']),
+  },
+  mounted () {
+    this.getRoutes(this)
+  },
+  methods: {
+    ...mapActions(['getRoutes']),
+  },
 }
 </script>
 

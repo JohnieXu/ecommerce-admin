@@ -33,13 +33,13 @@ module.exports = {
       'adminapi/app/wechat/news?cate_name=&page=1&limit=10',
       'adminapi/app/wechat/keyword?key=&type=&page=1&limit=20',
       'adminapi/app/wechat/reply?key=default',
-      'adminapi/app/routine?status=&name=&page=1&limit=20'
+      'adminapi/app/routine?status=&name=&page=1&limit=20',
       // 营销模块、设置模块
     ],
     auth: {
       cookie: 'think_lang=zh-cn; PHPSESSID=8a5b0f4297e27aa602ff0a92843d8b2a; admin-uuid=2; admin-token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJwcm8uY3JtZWIubmV0IiwiYXVkIjoicHJvLmNybWViLm5ldCIsImlhdCI6MTU5MDgwODE1MSwibmJmIjoxNTkwODA4MTUxLCJleHAiOjE1OTA4MTg5NTEsImp0aSI6eyJpZCI6MiwidHlwZSI6ImFkbWluIn19._vcRBNFpI7ZucEFlcUQ19TfDvYyp9OAXUTqn7CHj7Rw; admin-expires_time=1590818951',
-      token: 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJwcm8uY3JtZWIubmV0IiwiYXVkIjoicHJvLmNybWViLm5ldCIsImlhdCI6MTU5MDgwODE1MSwibmJmIjoxNTkwODA4MTUxLCJleHAiOjE1OTA4MTg5NTEsImp0aSI6eyJpZCI6MiwidHlwZSI6ImFkbWluIn19._vcRBNFpI7ZucEFlcUQ19TfDvYyp9OAXUTqn7CHj7Rw'
+      token: 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJwcm8uY3JtZWIubmV0IiwiYXVkIjoicHJvLmNybWViLm5ldCIsImlhdCI6MTU5MDgwODE1MSwibmJmIjoxNTkwODA4MTUxLCJleHAiOjE1OTA4MTg5NTEsImp0aSI6eyJpZCI6MiwidHlwZSI6ImFkbWluIn19._vcRBNFpI7ZucEFlcUQ19TfDvYyp9OAXUTqn7CHj7Rw',
     },
-    outputPath: 'data/mock'
-  }
+    outputPath: 'data/mock',
+  },
 }
