@@ -18,14 +18,16 @@ npm install
 
 ### 开发环境启动
 
+> 同时启动了前端项目和数据 mock 服务，mock 服务在 3000 端口
+
 ```bash
-yarn serve
+yarn start
 ```
 
 或者
 
 ```
-npm run serve
+npm start
 ```
 
 ### 生产环境打包
